@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Loffert 👋
+
+## I'm 24, I do illustration work and I'm in the database management program here at FTCC. I like UFOlogy and fringe science nonsense. (probably finish this later...)
 
 <!--
 **Lloffert/Lloffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
