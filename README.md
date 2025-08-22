@@ -1,6 +1,9 @@
 ## Hello, I'm Loffert 👋
 
-## I'm 24, I do illustration work and I'm in the database management program here at FTCC. I like UFOlogy and general fringe science nonsense, and probably some other things too I'm sure. I'm studying database to move into the information & library sciences, which I'm pretty passionate about, so the bulk of my programming knowledge (which is little) has been with SQL. That's all!
+## - 🔭 I'm a 24 year old student at FTCC working on my Associates in Database Management
+
+## - 👽 I do illustration work and I love UFOlogy, or really any kind of fringe science. If there's a bad TV documentary about it from the 70s I will probably watch it. But I do love normal films as well, and I play video games in my free time (Though almost predominantly just old point & click and text adventure games...)
+## - 🌱 I'm studying database to move into the information & library sciences, archival work and digital preservation is something I'm really passionate about so the bulk of my programming knowledge (which is little) has been with SQL. That's all!
 
 <!--
 **Lloffert/Lloffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
