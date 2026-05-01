@@ -3,7 +3,7 @@
  - 🔭 I'm a 24 year old college student working on my Associates in Database Management
 
  - 👽 I do illustration work and I love UFOlogy, or really any kind of fringe science. If there's a bad TV documentary about it from the 70s I will probably watch it. But I do love normal films as well, and I play janky video games in my free time
- - 🌱 I'm studying database to move into the information & library sciences, archival work and digital preservation is something I'm really passionate about. That's all!
+ - 🌱 I'm studying database to move into the information & library sciences. Archival work and digital preservation is something I'm really passionate about. That's all!
 
 <!--
 **Lloffert/Lloffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
